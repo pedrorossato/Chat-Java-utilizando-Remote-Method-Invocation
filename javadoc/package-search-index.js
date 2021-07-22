@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"chatRMI","l":"room"},{"m":"chatRMI","l":"server"},{"m":"chatRMI","l":"user"}];updateSearchResults();
